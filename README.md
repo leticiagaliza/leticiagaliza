@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b7a7e7&size=35&center=true&vCenter=true&width=1000&repeat=false&lines=Olá!+Me+chamo+Letícia+Monteiro.)](https://git.io/typing-svg)
 
-Tenho 23 anos, sou estudante de Engenharia de Software na Unicesumar e tenho como objetivo me tornar desenvolvedora.
+Me chamo Letícia Monteiro, sou estudante de Engenharia de Software na Unicesumar, com interesse em explorar a área de dados. Embora ainda esteja començando essa jornada, já possuo conhecimento básico em Python e lógica de programação, e estou em busca de me aprofundar em análise e manipulação de dados. Estou disposta a aprender e me desenvolver na área, através de experiência profissional, foco e disciplina.
 
 ## Conecte-se comigo
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/leticiamnteiro)
@@ -10,11 +10,11 @@ Tenho 23 anos, sou estudante de Engenharia de Software na Unicesumar e tenho com
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:leticia.galizaa@gmail.com)
 
 ## Conhecimento básico
-[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
-![C](https://skillicons.dev/icons?i=c)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+![C](https://skillicons.dev/icons?i=c)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org/)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
 
 ## Interesse
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
