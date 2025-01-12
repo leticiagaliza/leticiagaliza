@@ -11,6 +11,7 @@ Me chamo Letícia Monteiro, sou estudante de Engenharia de Software na Unicesuma
 
 ## Conhecimento básico
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/pt-BR/)
 ![C](https://skillicons.dev/icons?i=c)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org/)
