@@ -4,11 +4,6 @@
 
 Me chamo Letícia Monteiro, sou estudante de Engenharia de Software na Unicesumar, com interesse em explorar a área de dados. Embora ainda esteja começando essa jornada, já possuo conhecimento básico em Python e lógica de programação, e estou em busca de me aprofundar em engenharia e manipulação de dados. Estou disposta a aprender e me desenvolver na área, através de experiência profissional, foco e disciplina.
 
-## Conecte-se comigo
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/leticiagaliza)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/letícia-monteiro-87449a277/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:leticia.galizaa@gmail.com)
-
 ## Conhecimento básico
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/pt-BR/)
@@ -17,4 +12,12 @@ Me chamo Letícia Monteiro, sou estudante de Engenharia de Software na Unicesuma
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiagaliza&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiagaliza&theme=react&show_icons=true&hide_border=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiagaliza&theme=react&show_icons=true&hide_border=false&count_private=true)
+
+## Conecte-se comigo
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/leticiagaliza)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/letícia-monteiro-87449a277/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:leticia.galizaa@gmail.com)
+
