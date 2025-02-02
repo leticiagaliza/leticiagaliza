@@ -17,4 +17,4 @@ Me chamo Letícia Monteiro, sou estudante de Engenharia de Software na Unicesuma
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiamnteiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiagaliza&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
