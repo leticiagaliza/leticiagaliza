@@ -5,7 +5,7 @@
 Me chamo Letícia Monteiro, sou estudante de Engenharia de Software na Unicesumar, com interesse em explorar a área de dados. Embora ainda esteja começando essa jornada, já possuo conhecimento básico em Python e lógica de programação, e estou em busca de me aprofundar em engenharia e manipulação de dados. Estou disposta a aprender e me desenvolver na área, através de experiência profissional, foco e disciplina.
 
 ## Conecte-se comigo
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/leticiamnteiro)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/leticiagaliza)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/letícia-monteiro-87449a277/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:leticia.galizaa@gmail.com)
 
